@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883382296466",
+    "project_id": "firealarm-660e7",
+    "storage_bucket": "firealarm-660e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883382296466:android:41b316f73880f513c6eb4b",
+        "android_client_info": {
+          "package_name": "com.example.firealarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883382296466-3jjks2hhh6j77q0fe2sv8mfh42m9tt5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHn4hgoRCbISMPyfz7UjdAUwhfQYTDTmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883382296466-3jjks2hhh6j77q0fe2sv8mfh42m9tt5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

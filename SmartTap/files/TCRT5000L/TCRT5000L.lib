@@ -1,0 +1,57 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TCRT5000L
+#
+DEF TCRT5000L U 0 40 Y N 1 L N
+F0 "U" -201 221 50 H V L BNN
+F1 "TCRT5000L" -201 -401 50 H V L BNN
+F2 "XDCR_TCRT5000L" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Good" 0 0 50 H I L BNN "AVAILABILITY"
+F5 "PCB Mount Vishay" 0 0 50 H I L BNN "PACKAGE"
+F6 "TCRT5000L" 0 0 50 H I L BNN "MP"
+F7 "0.60 USD" 0 0 50 H I L BNN "PRICE"
+F8 "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor" 0 0 50 H I L BNN "DESCRIPTION"
+F9 "Vishay Semiconductor" 0 0 50 H I L BNN "MF"
+DRAW
+P 2 0 0 10 -140 100 -140 -10 N
+P 2 0 0 10 -160 -40 -140 -40 N
+P 2 0 0 10 -140 -40 -120 -40 N
+P 2 0 0 10 -140 -40 -140 -200 N
+P 2 0 0 10 130 100 130 40 N
+P 2 0 0 10 130 40 50 0 N
+P 2 0 0 10 50 0 50 -40 N
+P 2 0 0 10 50 -40 130 -90 N
+P 2 0 0 10 50 -40 50 -80 N
+P 2 0 0 10 50 0 50 30 N
+P 2 0 0 10 -140 100 -200 100 N
+P 2 0 0 10 -140 -200 -200 -200 N
+P 2 0 0 10 130 -90 130 -200 N
+P 2 0 0 10 130 -200 200 -200 N
+P 2 0 0 10 130 100 200 100 N
+P 4 0 0 6 80 -80 100 -50 110 -80 80 -80 f
+P 4 0 0 6 -140 -40 -160 -10 -120 -10 -140 -40 f
+P 2 0 0 10 -90 -40 -40 -90 N
+P 2 0 0 10 -110 -70 -60 -120 N
+P 2 0 0 10 -40 -90 -60 -60 N
+P 2 0 0 10 -40 -90 -70 -70 N
+P 2 0 0 10 -60 -120 -80 -90 N
+P 2 0 0 10 -60 -120 -90 -100 N
+P 2 0 0 10 -30 70 20 20 N
+P 2 0 0 10 -50 40 0 -10 N
+P 2 0 0 10 20 20 0 50 N
+P 2 0 0 10 20 20 -10 40 N
+P 2 0 0 10 0 -10 -20 20 N
+P 2 0 0 10 0 -10 -30 10 N
+S -200 -300 200 200 0 0 10 f
+X ~ 4 -300 100 100 R 40 40 0 0 P 
+X ~ 3 -300 -200 100 R 40 40 0 0 P 
+X ~ 1 300 100 100 L 40 40 0 0 P 
+X ~ 2 300 -200 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
