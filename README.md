@@ -23,4 +23,4 @@
 
 ![Ring Turn Page](images/ringturn_schema.PNG)
 ![Ring Turn Page](images/ringturn_pcb1.PNG)
-![Ring Turn Page](images/images/ringturn_3D.png)
+![Ring Turn Page](images/ringturn_3D.png)
