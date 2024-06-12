@@ -1,4 +1,4 @@
-# A collection of my earlier PCB projects using KiCAD.
+# A collection of my some of my PCB projects using KiCAD, with C++ and Flutter software.
 
 # Smart Tap
 
